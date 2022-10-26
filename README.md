@@ -2,7 +2,7 @@
 This is a hello-world repository to learn GitHub
 
 ## Let's Learn
-Learning and skillng on Git and GitHub
+Learning and skilling on Git and GitHub
 
 ### Some tutorials:
 * https://www.freecodecamp.org/news/best-git-tutorial/
